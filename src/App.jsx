@@ -75,8 +75,8 @@ return (
                 hello <span>,</span> i am <br /> Elloisa  Degula <span>.</span>{" "}
               </h2>
               <p>aspiring it professional</p>
-              <a href="/personal-portfolio/assets/resume/my-resume.pdf"  download>
-              download resume </a>
+              <a href="assets/download/resume.pdf" download>download resume </a>
+
                </div>
             {/*/.header-text*/}
           </div>
